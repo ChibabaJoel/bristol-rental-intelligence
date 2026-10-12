@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+
+# Python-generated files
+__pycache__/
+*.pyc
+
+# Jupyter-generated files
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# Sensitive local settings
+.env
+
+# Original downloaded data is not stored in Git.
+data/raw/
